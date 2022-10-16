@@ -39,7 +39,8 @@ public class Arithmetic {
                 break;
             }
        
-        
+        default:
+        System.out.println("Error! Please type in an arithmetic operator");
 
     };
 
